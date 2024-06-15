@@ -1,0 +1,16 @@
+.navbar{
+    background-color: red;
+}
+
+
+
+.nav-link:hover{
+    color: black !important;
+    font-weight: bold;
+
+}
+@media only screen and (max-width:1152px){
+    .icons {
+        display: none;
+    }
+}
